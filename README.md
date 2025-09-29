@@ -6,7 +6,6 @@
 
 ❤️ Web3 Enthusiasm <br>
 🎓 Cyfrin Updraft Student <br>
-🚶 Self-learner, independent security resercher <br>
 ⚡️ Compatible with EVM, SVM and SUI <br>
 
 ##
