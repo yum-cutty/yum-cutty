@@ -66,6 +66,8 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yum-cutty&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!-- COPYRIGHTS -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
